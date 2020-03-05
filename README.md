@@ -11,8 +11,11 @@
 - Ryan Smith
   - email: matthew.ryan.smith@emory.edu
 - Yufei Lin
+  - email: Yufei.Lin@childrens.harvard.edu
 - Douglas I. Walker
+  - email: douglas.walker@mssm.edu
 - Dean Jones
+  - email: dpjones@emory.edu
 - Chirag J. Patel
   - github: [\@chiragjp](http://github.com/chiragjp)
   - web: [www.chiragjpgroup.org](http://www.chiragjpgroup.org)
